@@ -14,6 +14,7 @@ import thememeteam.com.yummycrummyapp5.Profile;
 /**
  * Created by Cassidy on 11/26/2014.
  */
+
 public class DatabaseHandler extends SQLiteOpenHelper {
 
     private static final int DATABASE_VERSION = 4;

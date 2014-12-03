@@ -12,6 +12,7 @@ public class Preference {
 
     }
 
+
     public Preference (int profileID, int prefID, String restaurant, String address, String foodItem, int rating, String comments) {
         _restaurant = restaurant;
         _foodItem = foodItem;

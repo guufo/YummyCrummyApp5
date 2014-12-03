@@ -9,6 +9,7 @@ import android.widget.EditText;
 import android.widget.Toast;import thememeteam.com.yummycrummyapp5.R;
 
 
+
 public class Login_Activity extends Activity implements View.OnClickListener {
     DatabaseHandler dbHandler;
     EditText usernameTxt, userPasswordTxt;

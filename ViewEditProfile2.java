@@ -39,6 +39,7 @@ public class ViewEditProfile2 extends Activity implements View.OnClickListener {
         birthdayTxt.setText(currentProfile.getBirthday());
 
 
+
         final Button submitBtn = (Button) findViewById(R.id.submitChangesButton);
         submitBtn.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -3,7 +3,7 @@ package thememeteam.com.yummycrummyapp5;
 /**
  * Created by Cassidy on 11/24/2014.
  */
-//belhkjg
+//belhk
 public class Account {
 
     private String _name, _password, _email, _birthday, _gender;

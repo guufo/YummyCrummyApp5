@@ -80,6 +80,7 @@ public class ViewEditProfile extends Activity implements View.OnClickListener {
 
     }
 
+
     private void populateList(){
         ArrayAdapter<Profile> adapter = new ProfileListAdapter();
         profileListView.setAdapter(adapter);

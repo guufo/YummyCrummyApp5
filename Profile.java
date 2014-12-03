@@ -12,6 +12,7 @@ public class Profile {
 
     }
 
+
     public Profile (int aID, int pID, String name, String birthday, String gender) {
         _accountID = aID;
         _profileID = pID;

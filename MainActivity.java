@@ -18,6 +18,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         beginButton.setOnClickListener(this);
     }
 
+
+
     private void beginButtonClick()
     {
         startActivity(new Intent("thememeteam.com.yummycrummyapp4.Login_Activity"));
